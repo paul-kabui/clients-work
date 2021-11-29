@@ -1,0 +1,8 @@
+ID	Name	Latitude	Longitude	Diameter
+1	Mead	12.50	57.00	268.70
+9	Joliot-Curie	-1.70	62.40	100.90
+14	Potanina	31.70	53.00	89.60
+15	Bonnevie	-36.10	127.00	87.60
+21	Boulanger	-26.60	99.30	73.70
+28	Andreianova	-3.00	68.70	69.50
+38	Hepworth	5.10	94.60	62.50
